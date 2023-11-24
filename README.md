@@ -1,4 +1,4 @@
-# Actividad 3: Proyecto Grupal.
+# Actividad 3.
 ## Introducción a la programación web UNC 2023 - Grupo 9
 
 Desarrollé para esta actividad el sitio web "Dulzura - Pastelería Artesanal". De acuerdo a las consignas solicitadas utilicé HTML, CSS, Bootstrap, JavaScript y metodologías ágiles (SCRUM). Con Visual Studio Code.
