@@ -6,7 +6,7 @@ Desarrollé para esta actividad el sitio web "Dulzura - Pastelería Artesanal". 
 - Tablero Kanban: [Github Projects](https://github.com/users/FedeRo2/projects/1/views/1?layout=table)
 - Bitácora del proyecto: https://docs.google.com/document/d/17cS0Li-Rr4lWSOy_uc3f_4QsCeu-FJRjOfEsMXJq7r8/edit?usp=sharing
 
-## Participantes del equipo de trabajo ✒️
+## Desarrollador ✒️
 * _Romero Rodríguez_, Federico Martín "FedeRo2" (Developer y Scrum Master)
 
 ## Tecnologías utilizadas
