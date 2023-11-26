@@ -123,13 +123,6 @@ p {
     }
   }
 
-/* Estilos en la barra de navegación */
-/* .barranav {
-	display: flex;
-	flex-direction: row-reverse;
-	align-items: center;
-}
- */
 /* Estilos en la tabla de productos */
 table {
     font-size: larger;
@@ -139,49 +132,16 @@ td {
     font-size: 1.2em;
 }
 
+/* Estilos para imagenes dentro del carrusel */
+.carousel-inner img {
+    width: 40%;
+    height: auto;
+}
+
 /* Estilos de las estrellas de calificación */
 .calificacion {
     color: gold;
 }
-
-/* ESTILOS EN EL FORMULARIO DE CONTACTO */
-/* form {
-    font-family: Arial, Helvetica, sans-serif;
-    min-height: 50vh;
-    display: flex;
-    align-items: center;
-    background-color:white;
-} */
-
-/* ESTILOS INPUT y LABEL DEL FORMULARIO DE CONTACTO */
-/* input {
-    padding: 50px 55px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    border: 20px;
-    text-align: center;
-    width: 340px;
-    background-color: #e05417;
-    flex-direction: column;
-}
-*/
-
-/*
-input, textarea {
-    background-color: rgb(173, 138, 91);
-    padding: 20px 14px;
-    margin-bottom: 25px;
-    border: 0;
-    border-radius: 10px;
-    font-size: 15px;
- } */
-  
-
-/* ESTILO EN EL BOTÓN ENVIAR DEL FORMULARIO DE CONTACTO */
-/* .enviar {
-    font-size: 17px;
-    cursor: pointer;
-    width: fit-content; 
-} */
 
 /* Estilos del pie de página */
 footer {
