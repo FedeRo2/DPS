@@ -19,4 +19,4 @@ Desarrollé para esta actividad el sitio web "Dulzura - Pastelería Artesanal". 
 * GitHub Desktop (control de versiones)
 * Servicio de hosting GitHub Pages.
 
-## Nuestra web: 👉🏻👉 https://federo2.github.io/DPS/
+## Sitio web: 👉🏻👉 https://federo2.github.io/DPS/

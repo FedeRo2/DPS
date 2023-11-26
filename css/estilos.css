@@ -15,16 +15,6 @@ body {
     overflow-x: hidden;
 }
 
-/* .header {
-    background-color: #f18657;
-    align-items: center;
-} */
-
-/* .navbar {
-    background-color: #f9ede7;
-    padding: 0;
-} */
-
 .nav-item :active {
     color: rgb(218, 117, 34);
 }
@@ -89,7 +79,7 @@ p {
     box-shadow: 5px 5px 5px rgba(218, 117, 34, 0.473);
 }
 
-.card .img:hover {
+.card-img-top:hover {
     transform: scale(1.1);
     transition: 1s;
 } 
